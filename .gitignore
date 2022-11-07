@@ -1,0 +1,13 @@
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+*.swp
+# Flutter/Dart/Pub related
+/build
+/.dart_tool
+/.idea
+/linux
+/windows
+/macos
+
